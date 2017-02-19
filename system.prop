@@ -96,11 +96,3 @@ persist.timed.enable=true
 
 # Wifi
 wifi.interface=wlan0
-
-# Hardware info
-ro.device.chipset
-ro.device.cpu
-ro.device.gpu
-ro.device.front_cam
-ro.device.rear_cam
-ro.device.screen_re
